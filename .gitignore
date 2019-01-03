@@ -1,0 +1,14 @@
+.idea/
+*.iml
+target/
+.arcconfig
+config-cache/
+logs/
+bootcamp-webapp.pid
+
+*.sw[op]
+
+# eclipse ignore
+.settings/
+.project
+.classpath
